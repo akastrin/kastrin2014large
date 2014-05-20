@@ -1,0 +1,56 @@
+History, 15th Century|D049668
+History, 16th Century|D049669
+History, 17th Century|D049670
+History, 18th Century|D049671
+History, 19th Century|D049672
+History, 20th Century|D049673
+History, 21th Century|D049674
+History, Ancient|D049690
+History, Early Modern 1451-1600|D049692
+History, Medieval|D049691
+History, Modern 1601-|D049711
+American Civil War|D047831
+American Revolution|D047788
+Chernobyl Nuclear Accident|D047852
+Crimean War|D047849
+French Revolution|D047850
+Gulf War|D047830
+Korean War|D047869
+Russian-Japanese War|D047848
+September 11 Terrorist Attacks|D047851
+Spanish-American War, 1898|D047832
+Vietnam Conflict|D047829
+World War I|D047828
+World War II|D047789
+Animals|D000818
+Comparative Study|D003160
+Humans|D006801
+In Vitro|D007176
+Pregnancy|D011247
+Adolescent|D000293
+Adult|D000328
+Aged|D000368
+Aged, 80 and Over|D000369
+Child|D002648
+Child, Preschool|D002675
+Infant|D007223
+Infant, Newborn|D007231
+Middle Aged|D008875
+Female|D005260
+Male|D008297
+Cats|D002415
+Cattle|D002417
+Chick Embryo|D002642
+Dogs|D004285
+Guinea Pigs|D006168
+Hamsters|D006224
+Mice|D051379
+Rabbits|D011817
+Rats|D051381
+Support, Non-U.S. Gov't|D013485
+Research Support, Non-U.S. Gov't|D013485
+Support, U.S. Gov't, P.H.S.|D013487
+Research Support, U.S. Gov't, P.H.S.|D013487
+Support, U.S. Gov't, Non-P.H.S.|D013486
+Research Support, U.S. Gov't. Non-P.H.S.|D013486
+Research Support, N.I.H., Extramural|D052061
