@@ -1,7 +1,7 @@
 README
 ------
 
-Supplementary material for Kastrin, A., Rindflesch, T. C. & Hristovski, D. _Large-scale Structure of a Network of Co-occurring MeSH Terms: Statistical Analysis of Macroscopic Properties_ (submitted to PLOS ONE)
+**Supplementary material.** Kastrin A, Rindflesch TC, Hristovski D (2014) Large-Scale Structure of a Network of Co-Occurring MeSH Terms: Statistical Analysis of Macroscopic Properties. PLoS ONE 9(7): e102188. doi:10.1371/journal.pone.0102188
 
 ### Running instructions
 
